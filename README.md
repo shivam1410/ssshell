@@ -1,10 +1,11 @@
 # ssshell
 linux shell
 
+## Compile and Run
 compile:	gcc shell.c -lreadline -o shell<br>
 run:		./shell
 
-# libraries used
+## Libraries Used
 * <stdio.h> 
 * <string.h> 
 * <stdlib.h> 
