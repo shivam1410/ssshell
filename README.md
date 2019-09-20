@@ -2,11 +2,11 @@
 linux shell
 
 ## Compile and Run
-**compile**:  `gcc shell.c -lreadline -o shell<br>`
+**compile**:  `gcc shell.c -lreadline -o shell`<br>
 **run**:      `./shell`
 
 ## Libraries Used
-```* <stdio.h> 
+* <stdio.h> 
 * <string.h> 
 * <stdlib.h> 
 * <unistd.h> 
@@ -20,4 +20,4 @@ _for retrieving hostname and ip address_
 * <sys/types.h> 
 * <sys/socket.h> 
 * <netinet/in.h> 
-* <arpa/inet.h>```
+* <arpa/inet.h>
