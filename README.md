@@ -1,5 +1,5 @@
 # ssshell
 linux shell
 
-compile:	gcc shell.c -lreadline -o shell\n
+compile:	gcc shell.c -lreadline -o shell&nbsp;
 run:		./shell
