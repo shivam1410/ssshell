@@ -2,8 +2,8 @@
 linux shell
 
 ## Compile and Run
-compile:	gcc shell.c -lreadline -o shell<br>
-run:		./shell
+**compile**:	gcc shell.c -lreadline -o shell<br>
+**run**:		./shell
 
 ## Libraries Used
 * <stdio.h> 
@@ -13,7 +13,7 @@ run:		./shell
 * <sys/types.h> 
 * <sys/wait.h> 
 * <readline/readline.h> 
-* <readline/history.h><br>
+* <readline/history.h><br><br>
 _for retrieving hostname and ip address_
 * <errno.h> 
 * <netdb.h> 
