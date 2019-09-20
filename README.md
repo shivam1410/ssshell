@@ -13,8 +13,8 @@ run:		./shell
 * <sys/types.h> 
 * <sys/wait.h> 
 * <readline/readline.h> 
-* <readline/history.h>
-//for retrieving hostname and ip address
+* <readline/history.h><br>
+_for retrieving hostname and ip address_
 * <errno.h> 
 * <netdb.h> 
 * <sys/types.h> 
