@@ -23,4 +23,7 @@ _for retrieving hostname and ip address_
 * <arpa/inet.h>
 
 ## Refrences
-* Geeksforgeeks*
+- https://www.geeksforgeeks.org/making-linux-shell-c/
+- https://www.tutorialspoint.com/unix/shell_scripting.htm
+- https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+- https://ryanstutorials.net/bash-scripting-tutorial/
