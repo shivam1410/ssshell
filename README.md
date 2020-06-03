@@ -21,3 +21,6 @@ _for retrieving hostname and ip address_
 * <sys/socket.h> 
 * <netinet/in.h> 
 * <arpa/inet.h>
+
+## Refrences
+* Geeksforgeeks*
